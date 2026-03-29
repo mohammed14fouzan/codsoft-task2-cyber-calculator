@@ -24,13 +24,17 @@ CodSoft Web Development Internship-Task2
 🛠Tech Stacks:
 
 *HTML
+
 *CSS
+
 *JS
 
 🚀How to Run the Project:
 
 (i)Cloning the repository.
+
 (ii)Open the Project folder in VS code.
+
 (iii)Open the index.html in the browser and congrats the project have executed.
 
 🤳Screenshots:
